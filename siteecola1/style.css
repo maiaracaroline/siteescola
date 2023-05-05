@@ -1,0 +1,37 @@
+*{
+   margin: 0;
+   padding: 0;   
+}
+header{
+   background-color: #2f2626;   
+   color: white;
+   display: flex;
+   justify-content: space-around;
+   padding: 24px 0;
+}
+
+
+.cabecalho-imagem{
+ width: 20%;  
+}
+.cabecalho-lista-item{ 
+    display: inline-block;
+    margin: 0 16px ;
+    font-size: 24px;
+}
+.escola-imagem{
+    width: 21%;
+}
+.escola{
+  background-image: -o-linear-gradient(#2f2626,#cd88a1);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 24px 0;
+}
+.escola-div-conteudo{
+  width:35%;
+
+}
+   
